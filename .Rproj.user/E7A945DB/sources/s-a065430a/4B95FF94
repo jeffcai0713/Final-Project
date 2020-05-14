@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589487500564.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "4B95FF94",
+    "lastKnownWriteTime" : 1589491412,
+    "last_content_update" : 1589498431197,
+    "path" : "~/Final Project Jeff Cai/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "24,29",
+        "scrollLine" : "27"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}

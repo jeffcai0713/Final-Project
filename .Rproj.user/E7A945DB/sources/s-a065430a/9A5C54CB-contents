@@ -1,0 +1,21 @@
+---
+title: My Post
+author: ''
+date: '2020-05-14'
+slug: my-post
+categories: []
+tags: []
+description: ''
+---
+
+Hi, my name is Jeff and I am in SDS 348.
+
+
+
+```{python}
+x="blah"
+```
+
+```{R}
+py$x
+```
