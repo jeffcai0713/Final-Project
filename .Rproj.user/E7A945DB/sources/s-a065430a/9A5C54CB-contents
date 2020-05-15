@@ -1,6 +1,6 @@
 ---
 title: My Post
-author: ''
+author: 'Jeffrey Cai'
 date: '2020-05-14'
 slug: my-post
 categories: []
@@ -8,14 +8,20 @@ tags: []
 description: ''
 ---
 
+<img src="image.jpg">
+
 Hi, my name is Jeff and I am in SDS 348.
 
-
-
 ```{python}
-x="blah"
+x=list(range(20))
+x.reverse()
+
+for i in x:
+print(i+25)
+
 ```
 
 ```{R}
 py$x
 ```
+

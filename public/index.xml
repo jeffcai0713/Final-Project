@@ -41,14 +41,5 @@
       <description>Modeling Instructions A knitted R Markdown document (as a PDF) and the raw R Markdown file (as .Rmd) should both be submitted to Canvas by 11:59pm on 5/1/2020. These two documents will be graded jointly, so they must be consistent (i.e., don’t change the R Markdown file without also updating the knitted document). Knit an html copy too, for later! In the .Rmd file for Project 2, you can copy the first code-chunk into your project .</description>
     </item>
     
-    <item>
-      <title>My Post</title>
-      <link>/blog/my-post/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/blog/my-post/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

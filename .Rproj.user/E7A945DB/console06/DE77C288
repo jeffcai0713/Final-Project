@@ -7,3 +7,212 @@ Initialized empty Git repository in /stor/home/jc79847/Final Project Jeff Cai/.g
  config.toml  'Final Project Jeff Cai.Rproj'   [0m[01;34mpublic[0m   [01;34mthemes[0m
  [01;34mcontent[0m       index.Rmd                       [01;34mstatic[0m
 ]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git add .
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git commit - "first t ry"
+error: pathspec '-' did not match any file(s) known to git.
+error: pathspec 'first try' did not match any file(s) known to git.
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$  git commit -m"fr[K[K[K f[K"first  [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct  try"
+[master (root-commit) a79b5c7] first try
+ Committer: Jeffrey Cai <jc79847@educcomp01.ccbb.utexas.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 163 files changed, 12060 insertions(+)
+ create mode 100644 .Rproj.user/E7A945DB/console06/DE77C288
+ create mode 100644 .Rproj.user/E7A945DB/console06/DE77C288.env
+ create mode 100644 .Rproj.user/E7A945DB/console06/INDEX001
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/1FC76FBB
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/270C1A35
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/3ECE1851
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/4A5C32B9
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/AEF1CF95
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/CE42A13B
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/D0A91F07
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/D2D2FCCA
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/D84AD4D0
+ create mode 100644 .Rproj.user/E7A945DB/sources/prop/INDEX
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/4B95FF94
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/4B95FF94-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/65D02BCA
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/65D02BCA-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/7801C1A2
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/7801C1A2-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/91DFA410
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/91DFA410-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/9A5C54CB
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/9A5C54CB-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/A4B47BE6
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/A4B47BE6-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/BAEC5C0A
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/BAEC5C0A-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/CA393F2B
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/CA393F2B-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/EDF82CFC-contents
+ create mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/293875A8-2020-05-14-my-post/1/E7A945DBa065430a/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/46AEAB6C-project1/1/E7A945DBa065430a/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/46AEAB6C-project1/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/88F43D5A-project2/1/E7A945DBa065430a/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/88F43D5A-project2/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 Final Project Jeff Cai.Rproj
+ create mode 100644 config.toml
+ create mode 100644 content/NBAAdvStat.xlsx
+ create mode 100644 content/NBAStat.xlsx
+ create mode 100644 content/blog/2020-05-14-my-post.Rmd
+ create mode 100644 content/blog/2020-05-14-my-post.html
+ create mode 100644 content/project1.Rmd
+ create mode 100644 content/project1.html
+ create mode 100644 content/project2.Rmd
+ create mode 100644 content/project2.html
+ create mode 100644 content/projects.md
+ create mode 100644 index.Rmd
+ create mode 100644 public/404.html
+ create mode 100644 public/Jeffrey Cai Resume.pdf
+ create mode 100644 public/NBAAdvStat.xlsx
+ create mode 100644 public/NBAStat.xlsx
+ create mode 100644 public/blog/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 public/blog/2015-07-23-r-rmarkdown/index.html
+ create mode 100644 public/blog/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/blog/2020-05-14-my-post.Rmd
+ create mode 100644 public/blog/creating-a-new-theme/index.html
+ create mode 100644 public/blog/goisforlovers/index.html
+ create mode 100644 public/blog/hugoisforlovers/index.html
+ create mode 100644 public/blog/index.html
+ create mode 100644 public/blog/index.xml
+ create mode 100644 public/blog/migrate-from-jekyll/index.html
+ create mode 100644 public/blog/my-post/index.html
+ create mode 100644 public/categories/development/index.html
+ create mode 100644 public/categories/development/index.xml
+ create mode 100644 public/categories/golang/index.html
+ create mode 100644 public/categories/golang/index.xml
+ create mode 100644 public/categories/index.html
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/projects/index.html
+ create mode 100644 public/categories/projects/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/css/main.css
+ create mode 100644 public/img/10775984288_IMG_0918.jpg
+ create mode 100644 public/img/me.jpg
+ create mode 100644 public/img/profile.png
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/docs.min.js
+ create mode 100644 public/js/ie10-viewport-bug-workaround.js
+ create mode 100644 public/js/main.js
+ create mode 100644 public/project1.Rmd
+ create mode 100644 public/project1/index.html
+ create mode 100644 public/project1_files/figure-html/unnamed-chunk-4-1.png
+ create mode 100644 public/project1_files/figure-html/unnamed-chunk-5-1.png
+ create mode 100644 public/project1_files/figure-html/unnamed-chunk-6-1.png
+ create mode 100644 public/project1_files/figure-html/unnamed-chunk-7-1.png
+ create mode 100644 public/project1_files/figure-html/unnamed-chunk-8-1.png
+ create mode 100644 public/project1_files/figure-html/unnamed-chunk-8-2.png
+ create mode 100644 public/project1_files/figure-html/unnamed-chunk-8-3.png
+ create mode 100644 public/project1_files/figure-html/unnamed-chunk-8-4.png
+ create mode 100644 public/project2.Rmd
+ create mode 100644 public/project2/index.html
+ create mode 100644 public/projects/index.html
+ create mode 100644 public/resume.pdf
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/development/index.html
+ create mode 100644 public/tags/development/index.xml
+ create mode 100644 public/tags/go/index.html
+ create mode 100644 public/tags/go/index.xml
+ create mode 100644 public/tags/golang/index.html
+ create mode 100644 public/tags/golang/index.xml
+ create mode 100644 public/tags/hugo/index.html
+ create mode 100644 public/tags/hugo/index.xml
+ create mode 100644 public/tags/index.html
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/projects/index.html
+ create mode 100644 public/tags/projects/index.xml
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 public/tags/templates/index.html
+ create mode 100644 public/tags/templates/index.xml
+ create mode 100644 public/tags/themes/index.html
+ create mode 100644 public/tags/themes/index.xml
+ create mode 100644 static/blog/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 static/img/10775984288_IMG_0918.jpg
+ create mode 100644 static/img/me.jpg
+ create mode 100644 static/img/profile.png
+ create mode 100644 static/project1_files/figure-html/unnamed-chunk-4-1.png
+ create mode 100644 static/project1_files/figure-html/unnamed-chunk-5-1.png
+ create mode 100644 static/project1_files/figure-html/unnamed-chunk-6-1.png
+ create mode 100644 static/project1_files/figure-html/unnamed-chunk-7-1.png
+ create mode 100644 static/project1_files/figure-html/unnamed-chunk-8-1.png
+ create mode 100644 static/project1_files/figure-html/unnamed-chunk-8-2.png
+ create mode 100644 static/project1_files/figure-html/unnamed-chunk-8-3.png
+ create mode 100644 static/project1_files/figure-html/unnamed-chunk-8-4.png
+ create mode 100644 static/resume.pdf
+ create mode 100644 themes/hugo-sustain/LICENSE.md
+ create mode 100644 themes/hugo-sustain/README.md
+ create mode 100644 themes/hugo-sustain/archetypes/default.md
+ create mode 100644 themes/hugo-sustain/exampleSite/config.toml
+ create mode 100644 themes/hugo-sustain/exampleSite/content/blog/creating-a-new-theme.md
+ create mode 100644 themes/hugo-sustain/exampleSite/content/blog/goisforlovers.md
+ create mode 100644 themes/hugo-sustain/exampleSite/content/blog/hugoisforlovers.md
+ create mode 100644 themes/hugo-sustain/exampleSite/content/blog/migrate-from-jekyll.md
+ create mode 100644 themes/hugo-sustain/exampleSite/content/projects.md
+ create mode 100644 themes/hugo-sustain/exampleSite/data/projects.yml
+ create mode 100644 themes/hugo-sustain/exampleSite/static/img/profile.png
+ create mode 100644 themes/hugo-sustain/images/screenshot.png
+ create mode 100644 themes/hugo-sustain/images/tn.png
+ create mode 100644 themes/hugo-sustain/layouts/404.html
+ create mode 100644 themes/hugo-sustain/layouts/_default/list.html
+ create mode 100644 themes/hugo-sustain/layouts/_default/projects.html
+ create mode 100644 themes/hugo-sustain/layouts/_default/single.html
+ create mode 100644 themes/hugo-sustain/layouts/index.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/disqus.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/footer.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/head.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/header.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/js.html
+ create mode 100644 themes/hugo-sustain/layouts/partials/social.html
+ create mode 100644 themes/hugo-sustain/static/css/main.css
+ create mode 100644 themes/hugo-sustain/static/js/docs.min.js
+ create mode 100644 themes/hugo-sustain/static/js/ie10-viewport-bug-workaround.js
+ create mode 100644 themes/hugo-sustain/static/js/main.js
+ create mode 100644 themes/hugo-sustain/theme.toml
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git add origin[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit remote add origin  https://github.com/jeffcai0713/Final-Project.git
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git push origin maste r
+Username for 'https://github.com': jeffcai0713
+Password for 'https://jeffcai0713@github.com': 
+Counting objects: 198, done.
+Delta compression using up to 16 threads.
+Compressing objects:   0% (1/168)   Compressing objects:   1% (2/168)   Compressing objects:   2% (4/168)   Compressing objects:   3% (6/168)   Compressing objects:   4% (7/168)   Compressing objects:   5% (9/168)   Compressing objects:   6% (11/168)   Compressing objects:   7% (12/168)   Compressing objects:   8% (14/168)   Compressing objects:   9% (16/168)   Compressing objects:  10% (17/168)   Compressing objects:  11% (19/168)   Compressing objects:  12% (21/168)   Compressing objects:  13% (22/168)   Compressing objects:  14% (24/168)   Compressing objects:  15% (26/168)   Compressing objects:  16% (27/168)   Compressing objects:  17% (29/168)   Compressing objects:  18% (31/168)   Compressing objects:  19% (32/168)   Compressing objects:  20% (34/168)   Compressing objects:  21% (36/168)   Compressing objects:  22% (37/168)   Compressing objects:  23% (39/168)   Compressing objects:  24% (41/168)   Compressing objects:  25% (42/168)   Compressing objects:  26% (44/168)   Compressing objects:  27% (46/168)   Compressing objects:  28% (48/168)   Compressing objects:  29% (49/168)   Compressing objects:  30% (51/168)   Compressing objects:  31% (53/168)   Compressing objects:  32% (54/168)   Compressing objects:  33% (56/168)   Compressing objects:  34% (58/168)   Compressing objects:  35% (59/168)   Compressing objects:  36% (61/168)   Compressing objects:  37% (63/168)   Compressing objects:  38% (64/168)   Compressing objects:  39% (66/168)   Compressing objects:  40% (68/168)   Compressing objects:  41% (69/168)   Compressing objects:  42% (71/168)   Compressing objects:  43% (73/168)   Compressing objects:  44% (74/168)   Compressing objects:  45% (76/168)   Compressing objects:  46% (78/168)   Compressing objects:  47% (79/168)   Compressing objects:  48% (81/168)   Compressing objects:  49% (83/168)   Compressing objects:  50% (84/168)   Compressing objects:  51% (86/168)   Compressing objects:  52% (88/168)   Compressing objects:  53% (90/168)   Compressing objects:  54% (91/168)   Compressing objects:  55% (93/168)   Compressing objects:  56% (95/168)   Compressing objects:  57% (96/168)   Compressing objects:  58% (98/168)   Compressing objects:  59% (100/168)   Compressing objects:  60% (101/168)   Compressing objects:  61% (103/168)   Compressing objects:  62% (105/168)   Compressing objects:  63% (106/168)   Compressing objects:  64% (108/168)   Compressing objects:  65% (110/168)   Compressing objects:  66% (111/168)   Compressing objects:  67% (113/168)   Compressing objects:  68% (115/168)   Compressing objects:  69% (116/168)   Compressing objects:  70% (118/168)   Compressing objects:  71% (120/168)   Compressing objects:  72% (121/168)   Compressing objects:  73% (123/168)   Compressing objects:  74% (125/168)   Compressing objects:  75% (126/168)   Compressing objects:  76% (128/168)   Compressing objects:  77% (130/168)   Compressing objects:  78% (132/168)   Compressing objects:  79% (133/168)   Compressing objects:  80% (135/168)   Compressing objects:  81% (137/168)   Compressing objects:  82% (138/168)   Compressing objects:  83% (140/168)   Compressing objects:  84% (142/168)   Compressing objects:  85% (143/168)   Compressing objects:  86% (145/168)   Compressing objects:  87% (147/168)   Compressing objects:  88% (148/168)   Compressing objects:  89% (150/168)   Compressing objects:  90% (152/168)   Compressing objects:  91% (153/168)   Compressing objects:  92% (155/168)   Compressing objects:  93% (157/168)   Compressing objects:  94% (158/168)   Compressing objects:  95% (160/168)   Compressing objects:  96% (162/168)   Compressing objects:  97% (163/168)   Compressing objects:  98% (165/168)   Compressing objects:  99% (167/168)   Compressing objects: 100% (168/168)   Compressing objects: 100% (168/168), done.
+Writing objects:   0% (1/198)   Writing objects:   1% (2/198)   Writing objects:   2% (4/198)   Writing objects:   3% (6/198)   Writing objects:   4% (8/198)   Writing objects:   5% (10/198)   Writing objects:   6% (12/198)   Writing objects:   7% (14/198)   Writing objects:   8% (16/198)   Writing objects:   9% (18/198)   Writing objects:  10% (20/198)   Writing objects:  11% (22/198)   Writing objects:  12% (24/198)   Writing objects:  13% (26/198)   Writing objects:  14% (28/198)   Writing objects:  15% (30/198)   Writing objects:  16% (32/198)   Writing objects:  17% (34/198)   Writing objects:  18% (36/198)   Writing objects:  19% (38/198)   Writing objects:  20% (40/198)   Writing objects:  21% (42/198)   Writing objects:  22% (44/198)   Writing objects:  23% (46/198)   Writing objects:  24% (48/198)   Writing objects:  25% (50/198)   Writing objects:  26% (52/198)   Writing objects:  27% (54/198)   Writing objects:  28% (57/198)   Writing objects:  29% (58/198)   Writing objects:  30% (60/198)   Writing objects:  31% (62/198)   Writing objects:  32% (64/198)   Writing objects:  33% (66/198)   Writing objects:  34% (68/198)   Writing objects:  35% (70/198)   Writing objects:  36% (73/198)   Writing objects:  37% (74/198)   Writing objects:  38% (76/198)   Writing objects:  39% (78/198)   Writing objects:  40% (80/198)   Writing objects:  42% (85/198)   Writing objects:  43% (87/198)   Writing objects:  44% (88/198)   Writing objects:  45% (90/198)   Writing objects:  46% (92/198)   Writing objects:  47% (94/198)   Writing objects:  48% (96/198)   Writing objects:  49% (98/198)   Writing objects:  51% (101/198)   Writing objects:  52% (104/198)   Writing objects:  53% (105/198)   Writing objects:  54% (107/198)   Writing objects:  55% (109/198)   Writing objects:  56% (111/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  57% (113/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  58% (115/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  59% (117/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  60% (119/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  61% (121/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  62% (123/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  63% (125/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  64% (127/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  65% (129/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  66% (131/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  67% (133/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  68% (135/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  69% (137/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  70% (139/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  71% (141/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  72% (143/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  73% (145/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  74% (147/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  75% (149/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  76% (151/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  77% (153/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  78% (155/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  79% (157/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  80% (159/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  81% (161/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  82% (163/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  83% (165/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  84% (167/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  85% (169/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  86% (171/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  87% (173/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  88% (175/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  89% (177/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  90% (179/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  91% (181/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  92% (183/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  93% (185/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  94% (187/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  95% (189/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  96% (191/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  97% (193/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  98% (195/198), 1.05 MiB | 1.47 MiB/s   Writing objects:  99% (197/198), 1.05 MiB | 1.47 MiB/s   Writing objects: 100% (198/198), 1.05 MiB | 1.47 MiB/s   Writing objects: 100% (198/198), 7.95 MiB | 7.95 MiB/s, done.
+Total 198 (delta 42), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/42)[Kremote: Resolving deltas:  14% (6/42)[Kremote: Resolving deltas:  16% (7/42)[Kremote: Resolving deltas:  54% (23/42)[Kremote: Resolving deltas:  64% (27/42)[Kremote: Resolving deltas:  69% (29/42)[Kremote: Resolving deltas:  76% (32/42)[Kremote: Resolving deltas:  83% (35/42)[Kremote: Resolving deltas:  97% (41/42)[Kremote: Resolving deltas: 100% (42/42)[Kremote: Resolving deltas: 100% (42/42), done.[K
+To https://github.com/jeffcai0713/Final-Project.git
+ * [new branch]      master -> master
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git add.
+git: 'add.' is not a git command. See 'git --help'.
+
+The most similar command is
+	add
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git commit -m"seco[Ki[Kond  thing"
+On branch master
+Changes not staged for commit:
+	[31mmodified:   .Rproj.user/E7A945DB/console06/DE77C288[m
+
+no changes added to commit
+
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git ad d .[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git.[K add .

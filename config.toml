@@ -20,10 +20,10 @@ theme = "hugo-sustain"
   custom_js  = []
 
 [params.social]
-  Github        = "username"
-  Email         = "email@example.com"
-  Twitter       = "username"
-  LinkedIn      = "username"
+  Github        = "Jeffcai0713"
+  Email         = "jeffcai0713@gmail.com"
+  Twitter       = "jeffcai16"
+  Instagram     = "Jeff.Cai"
 
 ## Main Menu
 [[menu.main]]
@@ -40,4 +40,4 @@ theme = "hugo-sustain"
   name = "resume"
   identifier = "resume"
   weight = 300
-  url = "/resume/"
+  url = "resume.pdf"
