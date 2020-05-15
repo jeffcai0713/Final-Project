@@ -1,0 +1,35 @@
+---
+title: Second Post
+author: ''
+date: '2020-05-15'
+slug: second-post
+categories: []
+tags: []
+description: ''
+---
+
+![](/blog/2020-05-15-second-post_files/image.jpg)
+
+```{python}
+#python code chunk
+x=list(range(20))
+x.reverse()
+
+for i in x:
+  print(i+25)
+  
+import numpy as np
+a=np.array(x)
+print(x)
+print(a)
+print(a/2+2)
+
+
+```
+
+```{R}
+#R code chunk
+library(reticulate)
+py$x
+
+```

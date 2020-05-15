@@ -6,18 +6,18 @@
     <description>Recent content in Blogs on Website Project: Jeffrey Cai</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 14 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My Post</title>
-      <link>/blog/my-post/</link>
-      <pubDate>Thu, 14 May 2020 00:00:00 +0000</pubDate>
+      <title>Second Post</title>
+      <link>/blog/second-post/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/blog/my-post/</guid>
-      <description>Hi, my name is Jeff and I am in SDS 348.</description>
+      <guid>/blog/second-post/</guid>
+      <description>  #python code chunk x=list(range(20)) x.reverse() for i in x: print(i+25)  ## 44 ## 43 ## 42 ## 41 ## 40 ## 39 ## 38 ## 37 ## 36 ## 35 ## 34 ## 33 ## 32 ## 31 ## 30 ## 29 ## 28 ## 27 ## 26 ## 25 import numpy as np a=np.array(x) print(x) ## [19, 18, 17, 16, 15, 14, 13, 12, 11, 10, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0] print(a) ## [19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0] print(a/2+2)  ## [11 11 10 10 9 9 8 8 7 7 6 6 5 5 4 4 3 3 2 2] #R code chunk library(reticulate) py$x ## [1] 19 18 17 16 15 14 13 12 11 10 9 8 7 6 5 4 3 2 1 0 </description>
     </item>
     
   </channel>
