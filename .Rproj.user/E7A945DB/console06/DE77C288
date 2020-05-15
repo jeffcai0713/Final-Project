@@ -216,3 +216,45 @@ no changes added to commit
 
 ]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git ad d .[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git.[K add .
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git commit -m "s econd edit"
+[master 94fdf7c] second edit
+ Committer: Jeffrey Cai <jc79847@educcomp01.ccbb.utexas.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 53 files changed, 313 insertions(+), 218 deletions(-)
+ rewrite .Rproj.user/E7A945DB/console06/INDEX001 (100%)
+ delete mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/65D02BCA
+ delete mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/9A5C54CB
+ delete mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/A4B47BE6
+ delete mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/BAEC5C0A
+ delete mode 100644 .Rproj.user/E7A945DB/sources/s-a065430a/CA393F2B
+ delete mode 100644 .Rproj.user/shared/notebooks/293875A8-2020-05-14-my-post/1/E7A945DBa065430a/chunks.json
+ delete mode 100644 .Rproj.user/shared/notebooks/46AEAB6C-project1/1/E7A945DBa065430a/chunks.json
+ delete mode 100644 .Rproj.user/shared/notebooks/88F43D5A-project2/1/E7A945DBa065430a/chunks.json
+ create mode 100644 .gitignore
+ create mode 100644 content/Resume.Rmd
+ create mode 100644 content/Resume.html
+ delete mode 100644 content/blog/2020-05-14-my-post.Rmd
+ delete mode 100644 content/blog/2020-05-14-my-post.html
+ create mode 100644 public/Resume.Rmd
+ create mode 100644 public/Resume.html
+ create mode 100644 public/blog/2020-05-14-my-post_files/image.jpg
+ create mode 100644 public/img/image.jpg
+ create mode 100644 static/blog/2020-05-14-my-post_files/image.jpg
+ create mode 100644 static/img/image.jpg
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git push origin  master
+Username for 'https://github.com': jeffcai0713
+Password for 'https://jeffcai0713@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/jeffcai0713/Final-Project.git/'
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ gi[K[Kgit add .
