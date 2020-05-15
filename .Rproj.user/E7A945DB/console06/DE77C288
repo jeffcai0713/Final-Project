@@ -258,3 +258,25 @@ Password for 'https://jeffcai0713@github.com':
 remote: Invalid username or password.
 fatal: Authentication failed for 'https://github.com/jeffcai0713/Final-Project.git/'
 ]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ gi[K[Kgit add .
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git g[Kcommit -m "s econd try"
+[master d12b288] second try
+ Committer: Jeffrey Cai <jc79847@educcomp01.ccbb.utexas.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 45 insertions(+), 3 deletions(-)
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git ps[Kush origin  master
+Username for 'https://github.com': jeffcai0713
+Password for 'https://jeffcai0713@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/jeffcai0713/Final-Project.git/'
+]0;/stor/home/jc79847/Final Project Jeff Cai]0;jc79847@educcomp01: ~/Final Project Jeff Cai[01;32mjc79847@educcomp01[00m:[01;34m~/Final Project Jeff Cai[00m$ git add .
